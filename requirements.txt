@@ -1,0 +1,16 @@
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+sentence-transformers
+faiss-cpu
+ollama
+langchain
+streamlit_option_menu
+pypdf
+langchain_ollama 
+pypdf2
+shap
+matplotlib
+pandas
