@@ -29,7 +29,7 @@ MediBot AI integrates cutting-edge technologies to deliver intelligent healthcar
 | **Ollama Server**       | Local deployment of large language models for efficient performance.        |
 | **Gemma 4B**            | Google-powered multilingual model supporting 140+ languages.                |
 | **Explainable AI (XAI)**| Offers clarity on how medical conclusions are derived from images and data. |
-| **Deep Learning**       | Powers the analysis of PET, CT, and X-ray scans for simplified summaries.   |
+  |
 
 ## Use Cases
 
