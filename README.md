@@ -13,9 +13,6 @@
 - **Chatbot Assistance**  
   Offers a conversational interface for answering medical queries and symptom-based diagnosis.
 
-- **Medical Image Analysis**  
-  Summarizes complex medical reports (X-rays, PET, CT scans) into simple, understandable language.
-
 - **Explainable AI (XAI)**  
   Provides transparency into how diagnoses and summaries are generated, building trust in AI decisions.
 
